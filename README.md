@@ -18,7 +18,7 @@ Overdue assignments should have more emphasis than normal assignments. Turn the 
 
 ## Challenge 3: "Feel Good" Features!
 
-Some todolist applications, such as [Todoist](https://todoist.com) provide "feel good" features such as measuring the number of assignments you've completed. Create a new firebase collection of "users". Within this collection, store the user's email, as well as the number of assignments they have completed. In other words, you will need to update a new collection "users" every time the removeItem() function is called in List.js. Display the current user's total completed tasks somewhere on the screen, and retrieve the current user's "completed count" every time they log in.
+Some todolist applications, such as [Todoist](https://todoist.com) provide "feel good" features such as measuring the number of assignments you've completed. Create a new firebase collection of "users". Within this collection, store the user's email, as well as the number of assignments they have completed. In other words, you will need to update a new collection "users" every time the removeItem() function is called in List.js. Retrieve the current user's "completed count" every time they log in, and display this information somewhere above the to-do-list.
 
 ## Have fun!
 
